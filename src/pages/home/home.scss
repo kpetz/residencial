@@ -1,0 +1,8 @@
+@import "../../styles/base-color.scss";
+
+.home {
+  display: flex;
+  .homeContainer {
+    flex: 6;
+  }
+}
